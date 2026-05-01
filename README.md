@@ -41,3 +41,16 @@ Findings:
 5. A concerning finding in the "Time Band vs Age Profile" chart is that the 18+ Months category is the most populated band, indicating a high volume of long-term waiting patients across all age groups.
 6. Ophthalmology, Paediatric Orthopaedic, and Paediatric Respiratory Medicine are among the top specialties with high waitlist numbers, each averaging around 35-36 cases in the top 5 ranking.
 7. While many patients fall into the "0-3 Months" band, the "18+ Months" bar is significantly taller than the intermediate bands (3-6, 6-9, 9-12 months), suggesting that once a patient passes the one-year mark, they are likely to remain on the list for a very long time.
+
+**Exercise 4: Life Expectancy**
+Objectives:
+1. To Analyze Global Life Expectancy against Benchmarks
+2. To Evaluate Mortality Composition and Trends
+3. To Correlate Socioeconomic Factors with Health Outcomes
+
+Findings:
+1. The current average life expectancy shown is 71.40, which sits comfortably within the historical range of 44 to 89 years observed in the data.
+2. The "Global Mortality by Status" donut chart indicates that Developing nations account for the majority of the mortality share at 59.75%.
+3. The "Average Adult Mortality Trends" line chart shows that mortality in Developing countries remains significantly higher than in Developed nations, though both show relative stability between 2000 and 2015.
+4. The "Mortality Breakdown" bar chart displays a steady volume of infant and under-five deaths annually, with a slight peak around 2007 before a gradual decline.
+5. The "Average of Life_Expectancy by GDP" scatter chart shows a clear positive correlation; as GDP increases, life expectancy follows a predictable upward trend line.
